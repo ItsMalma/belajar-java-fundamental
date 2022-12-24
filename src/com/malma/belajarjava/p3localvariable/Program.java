@@ -1,4 +1,4 @@
-package com.malma.belajarjava.localvariable;
+package com.malma.belajarjava.p3localvariable;
 
 public class Program {
     public static void main(String[] args) {

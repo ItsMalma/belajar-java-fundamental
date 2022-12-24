@@ -1,4 +1,4 @@
-package com.malma.belajarjava.helloworld;
+package com.malma.belajarjava.p2helloworld;
 
 public class Program {
     public static void main(String[] args) {

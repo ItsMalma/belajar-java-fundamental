@@ -1,5 +1,5 @@
 // Setiap file Java harus diberikan package
-package com.malma.belajarjava.basic;
+package com.malma.belajarjava.p1basic;
 
 // Di dalam file Java harus ada satu class dengan nama yang sama
 // dengan nama file nya
