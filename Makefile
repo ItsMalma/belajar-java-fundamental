@@ -12,3 +12,6 @@ localvariable:
 
 datatype:
 	java -cp ./bin com.malma.belajarjava.p4datatype.Program
+
+array:
+	java -cp ./bin com.malma/belajarjava.p5array.Program
